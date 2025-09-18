@@ -12,4 +12,4 @@ We have provided the code for implementing causal networks and causal consistenc
 
 ## Issues/Pull Requests/Feedbacks
 
-Don't hesitate to contact for any feedback or create issues/pull requests/feedbacks.
+Don't hesitate to contact for any feedback or create issues/pull requests/feedbacks. The further updated code will be uploaded and finalized after the paper is published.
