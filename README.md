@@ -1,15 +1,11 @@
-# CN-SDE
+# BCN-SDE
 
-This is a pytorch implementation of CN-SDE, a causal neural network of stochastic differential equation.
+This is a pytorch implementation of BCN-SDE, a causal neural network of stochastic differential equation.
 
-![](https://github.com/Starsm7/CN-SDE/blob/main/visual/imgs/CN-SDE.png)
+![](https://github.com/Starsm7/BCN-SDE/blob/main/visual/imgs/BCN-SDE.png)
 
-The schematic illustration of the MuiltHipPoseNet algorithm. 
+The schematic illustration of theBCN-SDE algorithm. 
 
-## Introduction
+We have provided the code for implementing causal networks and causal consistency, bidirectional SDEs, as well as the simulated dataset, respectively. If you are interested in BCN-SDE, please look forward to updates after the official release!
 
-We have provided the code for implementing causal networks and causal consistency, bidirectional SDEs, as well as the simulated dataset, respectively. If you are interested in CN-SDE, please look forward to updates after the official release!
 
-## Issues/Pull Requests/Feedbacks
-
-Don't hesitate to contact for any feedback or create issues/pull requests/feedbacks. The further updated code will be uploaded and finalized after the paper is published.
