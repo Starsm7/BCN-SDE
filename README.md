@@ -2,7 +2,7 @@
 
 This is a pytorch implementation of BCN-SDE, a causal neural network of stochastic differential equation.
 
-![](https://github.com/Starsm7/BCN-SDE/blob/main/visual/imgs/BCN-SDE.png)
+![](https://github.com/Starsm7/BCN-SDE/blob/main/visual/imgs/BCN-SDE.pdf)
 
 The schematic illustration of theBCN-SDE algorithm. 
 
