@@ -1,1 +1,1 @@
-
+This is a minimalist implementation of a bidirectional SDE that excludes any additional modules (the causal discovery and cell-type consistency modules in BCN-SDE have both been removed). It represents the primary methodological contribution of this study. It can serve as a baseline framework for reconstructing the Waddington landscape and is intended to provide a foundation for future research and improvements.
