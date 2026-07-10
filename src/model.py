@@ -64,7 +64,7 @@ def gumbel_softmax(logits: Tensor, tau: float = 1, hard: bool = False, eps: floa
         ret = y_soft
     return ret
 def estimate_probs(y, orders=['exo', 'fev_high_isl_low', 'neurog3_early', 'neurog3_late', 'neurog3_mid', 'phox2a', 'prog_nkx61', 'prog_sox2', 'sc_alpha', 'sc_beta', 'sc_ec', 'sst_hhex']):
-    actual_probs = np.zeros((len(y), len(orders)))  # 初始化概率矩阵
+    actual_probs = np.zeros((len(y), len(orders)))  
     for i in range(len(y)):
         if isinstance(y, torch.Tensor):
             prob = pd.Series(y[i].numpy().flatten()).value_counts(normalize=True)
